@@ -1,7 +1,7 @@
 serpent = (loadfile "serpent.lua")()
 tdcli = dofile('tdcli.lua')
 redis = (loadfile "redis.lua")()
-tabchi_id = "TABCHI-ID"
+tabchi_id = "csiteam-ID"
 
 function vardump(value)
   return serpent.block(value,{comment=false})
