@@ -25,9 +25,9 @@ Enjoy Your New Bot!
 Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for auto launch mode (put tabchi-id in ID part)
 
 ## Help and more...
-Send `/start` to [@TabChiRobot](https://telegram.me/TabChiRobot) in telegram
+Send `/start` to [@csi_team_bot](https://telegram.me/TabChiRobot) in telegram
 ## Developers
 
- * [BugFather (Amir_h)](https://telegram.me/Lord_csi_cyber)
+ * [lord (csi_team)](https://telegram.me/Lord_csi_cyber)
 
-### Powered by [iTeam](https://telegram.me/csi_team)
+### csi_team [csi_team](https://telegram.me/csi_team)
